@@ -1,0 +1,27 @@
+{
+  "name": "frosty",
+  "version": "1.0.0",
+  "description": "Tcreeper's private bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TCreeper",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "erlpack": "github:discordapp/erlpack",
+    "forever": "^0.15.3",
+    "libsodium-wrappers": "^0.7.3",
+    "moment": "^2.22.2",
+    "mongoose": "^5.1.5",
+    "node-opus": "^0.2.9",
+    "nodemon": "^1.17.5",
+    "npm": "^6.1.0",
+    "opusscript": "0.0.6",
+    "sodium": "^2.0.3",
+    "superagent": "^3.8.3",
+    "uws": "^9.14.0"
+  }
+}
