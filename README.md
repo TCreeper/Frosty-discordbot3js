@@ -6,3 +6,5 @@ pls don't... i literally suck at coding, idk how to set up node modules and stuf
 as I said i just *suck*
 
 im just using this to well... not lose frosty, also i accidently commit my bot token
+
+Woah, im such a pro at typing.
